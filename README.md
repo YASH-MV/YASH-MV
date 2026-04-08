@@ -11,7 +11,8 @@ Yash Raj<br>Software Developer | Machine Learning Enthusiast<br><br>Passionate a
 ![](https://github-readme-stats.vercel.app/api?username=YASH-MV&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=YASH-MV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-MV&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+# Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/erorYASH?theme=dark&font=Ubuntu%20Mono&ext=heatmap)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
