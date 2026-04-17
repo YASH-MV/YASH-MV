@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+YASH-MV;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yash+Raj;Java+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 # 💫 About Me:
 Yash Raj<br>Software Developer | Machine Learning Enthusiast<br><br>Passionate about Java development and building practical applications with ML. <br>I enjoy the challenge of designing efficient system architectures and exploring <br>the backend of things.<br><br>- 📫 How to reach me: yashraj64004@gmail.com<br>- 💻 Tech: Java • Python • MySQl
